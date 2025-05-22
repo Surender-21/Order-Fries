@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "SF-Pro-Display-Medium";
+    src: url("/Assets/sf-pro-display/SF-Pro-Display-Medium.ttf");
+}
+
+@font-face {
+    font-family: "SF-Pro-Display-Regular";
+    src: url("/Assets/sf-pro-display/SF-Pro-Display-Regular.ttf");
+}
+
+@font-face {
+    font-family: "SF-Pro-Display-Semibold";
+    src: url("/Assets/sf-pro-display/SF-Pro-Display-Semibold.ttf");
+}
+
+@font-face {
+    font-family: "SF-Pro-Display-Bold";
+    src: url("/Assets/sf-pro-display/SF-Pro-Display-Bold.ttf");
+}
+
+@font-face {
+    font-family: "SF-Pro-Display-Black.ttf";
+    src: url("/Assets/sf-pro-display/SF-Pro-Display-Black.ttf");
+}
+
+@font-face {
+    font-family: "mountella-trial.regular";
+    src: url("/Assets/mountella-trial/mountella-trial.regular.ttf");
+}
+
+@font-face {
+    font-family: "mountella-trial.medium";
+    src: url("/Assets/mountella-trial/mountella-trial.medium.ttf");
+}
+
+@font-face {
+    font-family: "mountella-trial.semi-bold";
+    src: url("/Assets/mountella-trial/mountella-trial.semi-bold.ttf");
+}
+
+.sf-medium {
+    font-family: "SF-Pro-Display-Medium";
+}
+
+.sf-regular {
+    font-family: "SF-Pro-Display-Regular";
+}
+
+.sf-semibold {
+    font-family: "SF-Pro-Display-Semibold";
+}
+
+.sf-bold {
+    font-family: "SF-Pro-Display-Bold";
+}
+
+.sf-black {
+    font-family: "SF-Pro-Display-Black";
+}
+
+.mt-regular {
+    font-family: "mountella-trial.regular";
+}
+
+.mt-medium {
+    font-family: "mountella-trial.medium";
+}
+
+.mt-semibold {
+    font-family: "mountella-trial.semi-bold";
+}
